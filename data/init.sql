@@ -1,0 +1,13 @@
+CREATE DATABASE PHP_LOGIN; 
+use PHP_LOGIN; 
+CREATE TABLE users (
+    id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    isAdmin SMALLINT NOT NULL DEFAULT 0,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+);
+-- create a default  admin account to log in
+
+ 
+
