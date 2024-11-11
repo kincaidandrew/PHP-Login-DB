@@ -23,7 +23,7 @@ li {
   cursor: pointer;
 }
 
-
+/* 
 .mainarea{
   max-width: 700px;
   max-height: fit-content;
@@ -35,7 +35,7 @@ li {
           box-sizing: border-box;
           border-radius: 3%;
   float: left;
-}
+} */
 
 
 label {
@@ -96,7 +96,7 @@ th {
     .container {
       max-width: 730px;
     }
-
+  }
   .container-narrow > hr {
     margin: 30px 0;
   }
@@ -122,7 +122,7 @@ th {
   .marketing p + h4 {
     margin-top: 28px;
   }
-}
+
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
