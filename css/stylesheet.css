@@ -23,6 +23,21 @@ li {
   cursor: pointer;
 }
 
+
+.mainarea{
+  max-width: 700px;
+  max-height: fit-content;
+  padding: 15px;
+  margin: 50px 50px;
+  background-color: #e5e5e5;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+          border-radius: 3%;
+  float: left;
+}
+
+
 label {
   display: inline-flex;
   margin: 5px 0;
@@ -40,7 +55,7 @@ h2 .table-container {
 
 td,
 th { 
-  padding: 100px; 
+  padding: 20px; 
   border-bottom: 1px solid #aaa; 
 } 
    
