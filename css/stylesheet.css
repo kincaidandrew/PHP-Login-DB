@@ -30,6 +30,7 @@ label {
 
  
 h2 .table-container { 
+  max-width: 500px;
   display: block;
   justify-content: center;
   margin-left: auto;
@@ -125,6 +126,7 @@ th {
   .mainarea {
     text-align: center;
     border-bottom: 0;
+    
   }
 
  

@@ -3,11 +3,12 @@ Version 1.1 A Kincaid 10/11/2024
 
   I Have included extra funtionality
 
-  1. create and connect a database - including adding default admin user on DB creation
+  1. create and connect a database - including adding default admin user on DB creation (admin,admin)
   2. Option for user to register a newe username and password
   3. If user logs on as admin they can see extra Administration pages 
       - Admin can view a list of users
       - Admin can select user to edit - (this fuctionality is not completed due to time restarints )
+  Note **I developed Web app using mozilla firefox - which give the best example, I have teste
 
 # PHP-Login
 
